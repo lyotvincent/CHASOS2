@@ -1,6 +1,8 @@
-CHASOS: A novel approach for processing inconsistencies in chromatin loop predictions
+CHASOS2: A deep learning framework for chromatin loop de novo prediction with enhanced feature extraction
 ===
-A novel method called CHASOS (CHromatin loop prediction with Anchor Score and OCR Score) to achieve accuracy **chromatin loop predictions**. CHASOS incorporates multi-receptive field large kernel convolutional modules and scale modules to extract features used for **dealing with inconsistencies among multiple feature data**. Using the extracted features, CHASOS constructs a gradient boosting tree model to accomplish the chromatin loop predictions **without introducing extra sequencing**.
+CHASOS2 (CHromatin loop prediction with Anchor Score and OCR Score), a user-friendly toolkit for de novo prediction and evaluation of chromatin loop.  
+We extended the earlier work over 30%, incorporating new algorithm and toolkit as well as experimental validations. In particular, compared with the earlier publication.  
+This new submission develops a new chromatin loop prediction algorithm and user-friendly De Novo prediction toolkit CHASOS2. In addition, this new submission presents a new case study and in-depth validation experiment applying CHASOS2 de novo prediction toolkit on the K562 cell line, which demonstrates high consistency with ChIA-PET identified chromatin loops
 
 # Menu
 * /experiments - the source code of comparison methods
