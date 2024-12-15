@@ -10,6 +10,7 @@ This new submission develops a new chromatin loop prediction algorithm and user-
 * /source - the source code of CHASOS
   - /data_preprocess - source code of data preprocess
   - /pretrained_model - source code of anchor score model
+  - /genome_predictor - source code of de novo prediction toolkit
   - /fine_tuned_ocr_model - source code of OCR score model
   - /loop_model - source code of loop prediction model
 * /data - the data used in CHASOS
